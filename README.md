@@ -133,8 +133,5 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 <img width="621" height="439" alt="image" src="https://github.com/user-attachments/assets/828da295-775c-4fa6-b217-5352edfff51c" />
 
-
-<img width="658" height="503" alt="image" src="https://github.com/user-attachments/assets/284d5e1f-42dd-4a0f-8853-2168132e73dc" />
-
 ## RESULT
 Thus, the VGG-19 transfer learning model was successfully implemented for image classification.
